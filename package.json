@@ -1,7 +1,7 @@
 {
   "name": "rest-dummy",
   "version": "1.1.0",
-  "description": "Restful dummy services, dummy services using nodejs server",
+  "description": "Restful dummy services, dummy services using nodejs server.",
   "main": "app.js",
   "scripts": {
     "test": "test"
