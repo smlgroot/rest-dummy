@@ -1,8 +1,10 @@
 {
   "name": "rest-dummy",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Restful dummy services, dummy services using nodejs server.",
-  "bin":{"rest-dummy":"./cli.js"},
+  "bin": {
+    "rest-dummy": "./cli.js"
+  },
   "scripts": {
     "test": "test"
   },
